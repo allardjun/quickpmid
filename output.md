@@ -1,1 +1,0 @@
-- **Oosterheert et al.** - Molecular mechanism of actin filament elongation by formins. - *Science (New York, N.Y.)* - 2024
